@@ -1,5 +1,7 @@
 # Astro Starter Kit: Minimal
 
+**Project objectives** Learnt basics of Astro and how to deploy to GitHub pages.
+
 ```sh
 npm create astro@latest -- --template minimal
 ```
